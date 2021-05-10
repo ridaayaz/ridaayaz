@@ -19,6 +19,8 @@ Description : "Passionate, Optimistic, Tech enthusiast and a lot more";<br />
 
 } 
 <br />
+<br />
+<br />
 <!-- Language Used Stats -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridaayaz&show_icons=true&locale=en&layout=compact" alt="ridaayaz" /></p>
 
