@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Rida Ayaz!</h1>
-<h3 align="center">I'm Web Developer & Graphic Designer</h3>
+<h1 >Hi 👋, I'm Rida Ayaz!</h1>
+<h3 >I'm Web Developer & Graphic Designer</h3>
 
 - 📫 How to reach me **ridaayaz45@gmail.com**
 
