@@ -23,7 +23,7 @@ Description : "Passionate, Optimistic, Tech enthusiast and a lot more";
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://gmail.com/ridaayaz8" target="blank"><img align="center" src="SVG/gmail.svg" alt="ridaayaz45@gmail.com" height="30" width="40" /></a>
+<a href="https://gmail.com/ridaayaz45@gmail.com" target="blank"><img align="center" src="SVG/gmail.svg" alt="ridaayaz45@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/ridaayaz8" target="blank"><img align="center" src="SVG/twitter.svg" alt="ridaayaz8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ridaayaz" target="blank"><img align="center" src="SVG/linkedin.svg" alt="ridaayaz" height="30" width="40" /></a>
 <a href="https://www.behance.net/ridaayaz" target="blank"><img align="center" src="SVG/behance.svg" alt="ridaayaz" height="30" width="40" /></a>
