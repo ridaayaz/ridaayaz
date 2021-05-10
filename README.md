@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rida Ayaz!</h1>
-<h3 align="center">I'm Web Developer 💻 & Graphic Designer  </h3>
+<h3 align="center">I'm Web Developer & Graphic Designer</h3>
 
 - 📫 How to reach me **ridaayaz45@gmail.com**
 
@@ -14,9 +14,11 @@
 </p>
 
 <br />
+
+<!-- Language Used Stats -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridaayaz&show_icons=true&locale=en&layout=compact" alt="ridaayaz" /></p>
 
-<!-- Statistics -->
+<!-- GitHub Statistics -->
 
 <p align="center" >
   <a href="https://github.com/ridaayazgithub-readme-stats"> 
