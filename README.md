@@ -6,7 +6,7 @@
 <img align="right" src="SVG/Illustration/Illustration.png" alt="Illustration" height="300" width="400">
 
 <p align="left">
-  I'm a Final Year SE student with a great passion for Programming and Designing. 
+  Software Engineer with a great passion for Programming and Designing. 
   I have experience in web application development and graphic designing.
   Love to work in a team and can lead it as well.I am Microsoft Learn Student Ambassador.
 </p>
