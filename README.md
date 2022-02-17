@@ -7,8 +7,8 @@
 
 <p align="left">
   Software Engineer with a great passion for Programming and Designing. 
-  I have experience in web application development and graphic designing.
-  Love to work in a team and can lead it as well.I am Microsoft Learn Student Ambassador.
+  I have experience in Instructional Designing, web application development and graphic designing.
+  Love to work in a team and can lead it as well. Part of Microsoft Learn Student Ambassador.
 </p>
 
 <h3>A little more about me...</h3>
